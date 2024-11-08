@@ -99,7 +99,7 @@ core = [
 
 	# pkg_resources
 	"platformdirs >= 4.2.2", # Made ctypes optional (see #4461)
-	"importlib_metadata>=6",
+
 	# for distutils
 	"jaraco.collections",
 	"jaraco.functools",
